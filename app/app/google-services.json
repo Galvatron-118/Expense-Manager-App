@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662554219568",
+    "project_id": "budgeting-app-d45f8",
+    "storage_bucket": "budgeting-app-d45f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662554219568:android:98b31baf4c6be20465c9f5",
+        "android_client_info": {
+          "package_name": "com.example.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662554219568-jq7c45oqcr88o427hnjvqonulmkd4ipb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensemanager",
+            "certificate_hash": "7a7d9886d1fe9a42092b460ced53bf190ea6bf61"
+          }
+        },
+        {
+          "client_id": "662554219568-5m0cp627ce4t8qbsa0ars3rg6vjc5rc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMqSqMuJX9KQYBaCuuHdnWO1HI3Ib4Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662554219568-5m0cp627ce4t8qbsa0ars3rg6vjc5rc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
